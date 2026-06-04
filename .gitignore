@@ -1,0 +1,5 @@
+# Ignore data files only
+csv files/
+*.csv
+*.parquet
+*.xlsx
